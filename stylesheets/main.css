@@ -18,8 +18,7 @@ div.answers {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
 a.answer {
