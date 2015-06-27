@@ -18,6 +18,8 @@ div.answers {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 a.answer {
